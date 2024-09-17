@@ -1,6 +1,7 @@
 {
   "name": "gfolio",
   "version": "1.0.0",
+  "homepage": "https://theresahuang23.github.io/react-gh-pages",
   "description": "Personal website simulating Google Search interface, developed with React",
   "keywords": [
     "react",
